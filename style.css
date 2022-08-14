@@ -18,12 +18,21 @@ body {
     transform: translateX(-50%) translateY(-50%);
     border-radius: 30px;
     width: 344px;
-    height: 700px;
     border: 2px solid;
 }
 
+
+.svg-container {
+    text-align: center;
+}
+
+.svg-container svg {
+    width: 200px;
+    padding-top: 30px;
+}
+
 .accordion-container h1 {
-    padding-top: 100px;
+    padding-top: 30px;
 }
 
 .accordion {
